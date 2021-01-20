@@ -25,3 +25,11 @@ Generative Pattern Generator - Can be linked to a data source.
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Gen_Lines_02/2021_cross003.png)
 
 ///////////////////////
+
+Perlin_Blob
+======
+Blob generation based on Perlin Noise. Each iteration becomes more complex as the mouse is clicked.
+
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/perlin_blob/example.PNG)
+
+///////////////////////
