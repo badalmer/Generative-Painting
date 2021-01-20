@@ -1,4 +1,3 @@
-![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_Generative/example.PNG)
 BRANDON A. DALMER 2018
 
 FILE PREP
