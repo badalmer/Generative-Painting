@@ -12,6 +12,6 @@ Generative Painting is a way of algorithmically creating compositions for my acr
 
 Generative Painting (toons) is a branch of the original Generative Painting code. This generates compositions by pulling shapes from the database of .svg files, they are placed within the sketch at different locations and filled with perdetermined colors (pulled from the simpsons).
 
-// see readme file for options
+// see readme file for options 
 
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_GenerativeToons/example.PNG)
