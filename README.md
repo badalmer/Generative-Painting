@@ -15,3 +15,5 @@ Generative Painting (toons) is a branch of the original Generative Painting code
 // see readme file for options 
 
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_GenerativeToons/example.PNG)
+
+///////////////////////
