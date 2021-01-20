@@ -33,3 +33,11 @@ Blob generation based on Perlin Noise. Each iteration becomes more complex as th
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/perlin_blob/example.PNG)
 
 ///////////////////////
+
+Perlin_Lines
+======
+Line generation based on Perlin Noise. Algorithmically generated per incarnation.
+
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Perlin_Lines/example.PNG)
+
+///////////////////////
