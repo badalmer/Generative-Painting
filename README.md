@@ -17,3 +17,11 @@ Generative Painting (toons) is a branch of the original Generative Painting code
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_GenerativeToons/example.PNG)
 
 ///////////////////////
+
+Gen_Lines_02
+======
+Generative Pattern Generator - Can be linked to a data source.
+
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Gen_Lines_02/2021_cross003.png)
+
+///////////////////////
