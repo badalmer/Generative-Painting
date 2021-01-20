@@ -1,4 +1,4 @@
-![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_Generative/example.JPG)
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_Generative/example.JPG?raw=true)
 
 FILE PREP
 - .svg files must have compound paths removed.
