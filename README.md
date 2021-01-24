@@ -42,10 +42,6 @@ This sketch loads a .SVG file as an XML document (formatting it as a string of c
 
 ///////////////////////
 
-SVG_Corrupter
-======
-///////////////////////
-
 Widmanstatten_Gen
 ======
 ///////////////////////
