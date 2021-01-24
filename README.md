@@ -52,6 +52,10 @@ Pattern Generator based on Widmanstätten patterns found commonly within meteroi
 
 blob_gen01
 ======
+Simple squiggle blob generator. 
+
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/blob_gen01/example-01.png)
+
 ///////////////////////
 
 blob_gen03
