@@ -6,7 +6,7 @@ import processing.svg.*;
 import drop.*;
 
 int numCopy = 10; // number of copies you want
-int corLevel = 1500; // corruption level
+int corLevel = 1500; // corruption level (max 2000)
 ///////////////////////
 
 String[] svgText;
