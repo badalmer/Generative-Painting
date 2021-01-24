@@ -58,10 +58,6 @@ Simple squiggle blob generator.
 
 ///////////////////////
 
-blob_gen03
-======
-///////////////////////
-
 Perlin_Blob
 ======
 Blob generation based on Perlin Noise. Each iteration becomes more complex as the mouse is clicked.
