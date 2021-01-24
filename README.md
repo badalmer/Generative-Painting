@@ -42,6 +42,22 @@ This sketch loads a .SVG file as an XML document (formatting it as a string of c
 
 ///////////////////////
 
+SVG_Corrupter
+======
+///////////////////////
+
+Widmanstatten_Gen
+======
+///////////////////////
+
+blob_gen01
+======
+///////////////////////
+
+blob_gen03
+======
+///////////////////////
+
 Perlin_Blob
 ======
 Blob generation based on Perlin Noise. Each iteration becomes more complex as the mouse is clicked.
