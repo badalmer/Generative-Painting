@@ -44,6 +44,10 @@ This sketch loads a .SVG file as an XML document (formatting it as a string of c
 
 Widmanstatten_Gen
 ======
+Pattern Generator based on Widmanstätten patterns found commonly within meteroite fragments. [More info can be found here.](https://en.wikipedia.org/wiki/Widmanst%C3%A4tten_pattern)
+
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Widmanstatten_Gen/example-01.png)
+
 ///////////////////////
 
 blob_gen01
