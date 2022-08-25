@@ -1,5 +1,13 @@
 Gen_Lines_02
 ======
+Commodore 64 Color Picker
+======
+Simple return function to grab a random color from the Commodore 64 pallete 
+
+![alt text](https://static.wixstatic.com/media/090fd6_d2def184f4774c6f95b488e350b9546f~mv2.jpg/v1/fill/w_239,h_237,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/090fd6_d2def184f4774c6f95b488e350b9546f~mv2.jpg)
+
+///////////////////////
+
 Generative Pattern Generator - Can be linked to a data source.
 
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Gen_Lines_02/2021_cross003.png)
