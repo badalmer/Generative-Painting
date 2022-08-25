@@ -5,7 +5,6 @@ int Comm64Pick(){
     color(#333333), // grey 1
     color(#777777), // grey 2
     color(#BBBBBB), // grey 3
-    color(#FFFFFF), // white
     color(#00CC55), // green
     color(#AAFF66), // light green
     color(#0000AA), // blue
