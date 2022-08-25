@@ -4,7 +4,7 @@ Commodore 64 Color Picker
 ======
 Simple return function to grab a random color from the Commodore 64 pallete 
 
-![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Commodore%2064/com64_colors.JPG))
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Commodore%2064/com64_colors.JPG)
 
 ///////////////////////
 
