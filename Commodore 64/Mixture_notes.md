@@ -1,15 +1,15 @@
-- ![#000000](https://via.placeholder.com/15/000000/000000.png) `#black`
-- ![#333333](https://via.placeholder.com/15/333333/333333.png) `#grey 01`
-- ![#777777](https://via.placeholder.com/15/777777/777777.png) `#grey 02`
-- ![#BBBBBB](https://via.placeholder.com/15/BBBBBB/BBBBBB.png) `#white`
-- ![#00CC55](https://via.placeholder.com/15/00CC55/00CC55.png) `#green`
-- ![#AAFF66](https://via.placeholder.com/15/AAFF66/AAFF66.png) `#light green`
-- ![#0000AA](https://via.placeholder.com/15/0000AA/0000AA.png) `#blue`
-- ![#0088FF](https://via.placeholder.com/15/0088FF/0088FF.png) `#light blue`
-- ![#AAFFEE](https://via.placeholder.com/15/AAFFEE/AAFFEE.png) `#cyan`
-- ![#CC44CC](https://via.placeholder.com/15/CC44CC/CC44CC.png) `#violet`
-- ![#EEEE77](https://via.placeholder.com/15/EEEE77/EEEE77.png) `#yellow`
-- ![#880000](https://via.placeholder.com/15/880000/880000.png) `#red`
-- ![#FF7777](https://via.placeholder.com/15/FF7777/FF7777.png) `#light red`
-- ![#DD8855](https://via.placeholder.com/15/DD8855/DD8855.png) `#orange`
-- ![#664400](https://via.placeholder.com/15/664400/664400.png) `#brown`
+- ![#000000](https://via.placeholder.com/15/000000/000000.png) `#black // #000000`
+- ![#333333](https://via.placeholder.com/15/333333/333333.png) `#grey 01 // #333333`
+- ![#777777](https://via.placeholder.com/15/777777/777777.png) `#grey 02 // #777777`
+- ![#BBBBBB](https://via.placeholder.com/15/BBBBBB/BBBBBB.png) `#white // #BBBBBB`
+- ![#00CC55](https://via.placeholder.com/15/00CC55/00CC55.png) `#green // #00CC55`
+- ![#AAFF66](https://via.placeholder.com/15/AAFF66/AAFF66.png) `#light green // #AAFF66`
+- ![#0000AA](https://via.placeholder.com/15/0000AA/0000AA.png) `#blue // #0000AA`
+- ![#0088FF](https://via.placeholder.com/15/0088FF/0088FF.png) `#light blue // #0088FF`
+- ![#AAFFEE](https://via.placeholder.com/15/AAFFEE/AAFFEE.png) `#cyan // #AAFFEE`
+- ![#CC44CC](https://via.placeholder.com/15/CC44CC/CC44CC.png) `#violet // #CC44CC`
+- ![#EEEE77](https://via.placeholder.com/15/EEEE77/EEEE77.png) `#yellow // #EEEE77`
+- ![#880000](https://via.placeholder.com/15/880000/880000.png) `#red // #880000`
+- ![#FF7777](https://via.placeholder.com/15/FF7777/FF7777.png) `#light red // #FF7777`
+- ![#DD8855](https://via.placeholder.com/15/DD8855/DD8855.png) `#orange // #DD8855`
+- ![#664400](https://via.placeholder.com/15/664400/664400.png) `#brown // #664400`
