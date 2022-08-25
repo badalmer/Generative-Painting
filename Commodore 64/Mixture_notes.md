@@ -7,8 +7,11 @@
 - ![#777777](https://via.placeholder.com/15/777777/777777.png) `#grey 02 // #777777 // 119, 119, 119`
 >1:1 Bone Black / Titanium White
 
-- ![#BBBBBB](https://via.placeholder.com/15/BBBBBB/BBBBBB.png) `#grey 03 // #BBBBBB // 255, 255, 255`
+- ![#BBBBBB](https://via.placeholder.com/15/BBBBBB/BBBBBB.png) `#grey 03 // #BBBBBB // 187, 187, 187`
 >1:6 Bone Black / Titanium White
+
+- ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#grey 03 // #FFFFFF // 255, 255, 255`
+>1 Titanium White
 
 - ![#00CC55](https://via.placeholder.com/15/00CC55/00CC55.png) `#green // #00CC55 // 0, 204, 85`
 - ![#AAFF66](https://via.placeholder.com/15/AAFF66/AAFF66.png) `#light green // #AAFF66 // 170, 255, 102`
