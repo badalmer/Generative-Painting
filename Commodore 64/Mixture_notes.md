@@ -17,14 +17,33 @@
 >1:9.31 Light Turquois (Phthalo) / Cadmium Yellow Primrose
 
 - ![#AAFF66](https://via.placeholder.com/15/AAFF66/AAFF66.png) `#light green // #AAFF66 // 170, 255, 102`
-- ![#0000AA](https://via.placeholder.com/15/0000AA/0000AA.png) `#blue // #0000AA // 0, 0, 170`
-- ![#0088FF](https://via.placeholder.com/15/0088FF/0088FF.png) `#light blue // #0088FF // 170, 255, 238`
-- ![#AAFFEE](https://via.placeholder.com/15/AAFFEE/AAFFEE.png) `#cyan // #AAFFEE // 170, 255, 238`
-- ![#CC44CC](https://via.placeholder.com/15/CC44CC/CC44CC.png) `#violet // #CC44CC // 204, 68, 201`
-- ![#EEEE77](https://via.placeholder.com/15/EEEE77/EEEE77.png) `#yellow // #EEEE77 // 238, 238, 119`
-- ![#880000](https://via.placeholder.com/15/880000/880000.png) `#red // #880000 // 136, 0, 0`
-- ![#FF7777](https://via.placeholder.com/15/FF7777/FF7777.png) `#light red // #FF7777 // 255, 119, 119`
-- ![#DD8855](https://via.placeholder.com/15/DD8855/DD8855.png) `#orange // #DD8855 // 221, 136, 85`
-- ![#664400](https://via.placeholder.com/15/664400/664400.png) `#brown // #664400 // 102, 68, 0`
+>1:1.09 Light Green (Yellow Shade) / Cadmium Yellow Primrose
 
-*all values mixed by weight
+- ![#0000AA](https://via.placeholder.com/15/0000AA/0000AA.png) `#blue // #0000AA // 0, 0, 170`
+>1:28.21 Light Phthalo Blue / Ultramarine Blue
+
+- ![#0088FF](https://via.placeholder.com/15/0088FF/0088FF.png) `#light blue // #0088FF // 0, 136, 255`
+>1:1.76 Light Phthalo Blue / Ultramarine Blue
+
+- ![#AAFFEE](https://via.placeholder.com/15/AAFFEE/AAFFEE.png) `#cyan // #AAFFEE // 170, 255, 238`
+>1 Light Phthalo Green
+
+- ![#CC44CC](https://via.placeholder.com/15/CC44CC/CC44CC.png) `#violet // #CC44CC // 204, 68, 201`
+>2.46:1 Zinc White / Quinacridone Magenta
+
+- ![#EEEE77](https://via.placeholder.com/15/EEEE77/EEEE77.png) `#yellow // #EEEE77 // 238, 238, 119`
+>1 Titanate Yellow
+
+- ![#880000](https://via.placeholder.com/15/880000/880000.png) `#red // #880000 // 136, 0, 0`
+>1:7.05 Pyrrole Orange / Napthol Red Medium
+
+- ![#FF7777](https://via.placeholder.com/15/FF7777/FF7777.png) `#light red // #FF7777 // 255, 119, 119`
+>1.26:1 Light Magenta / Pyrrole Orange
+
+- ![#DD8855](https://via.placeholder.com/15/DD8855/DD8855.png) `#orange // #DD8855 // 221, 136, 85`
+>1:1.27 Quinacridone Nickel Azo / Light Magenta
+
+- ![#664400](https://via.placeholder.com/15/664400/664400.png) `#brown // #664400 // 102, 68, 0`
+>5.97:1 Green Gold / Pyrrole Orange
+
+*all values mixed by weight with Golden Acrylic Artist Colors
