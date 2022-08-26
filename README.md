@@ -8,7 +8,7 @@ Simple return function to grab a random color from the Commodore 64 pallete
 
 ///////////////////////
 
-SVG_Generative
+SVG_GenerativePainting
 ======
 Generative Painting is a way of algorithmically creating compositions for my acrylic paintings. This branch specifically is designed to look at the paths of vectors pulled from a database of shapes. It then places this path randomly (within limits) on the canvas. This then repeats though all the paths of all the shapes. Colors are randomly generated (maximum of which can be defined).
 
@@ -20,7 +20,7 @@ Generative Painting is a way of algorithmically creating compositions for my acr
 
 SVG_GenerativeToons
 ======
-Generative Painting (toons) is a branch of the original Generative Painting code. This generates compositions by pulling shapes from the database of .svg files, they are placed within the sketch at different locations and filled with predetermined colors (pulled from the simpsons).
+GenerativeToons is a branch of the original Generative Painting code. This generates compositions by pulling shapes from the database of .svg files, they are placed within the sketch at different locations and filled with predetermined colors (pulled from the simpsons).
 
 // see readme file for options 
 
@@ -30,7 +30,7 @@ Generative Painting (toons) is a branch of the original Generative Painting code
 
 SVG_GenerativeLayout
 ======
-Generative Layout builds upon SVG_GenerativeToons by dividing the drawing space into a random number of panels. Creating comic panels. 
+GenerativeLayout builds upon SVG_GenerativeToons by dividing the drawing space into a random number of panels. Creating comic panels. 
 
 //press r for color refresh, and h to hold the colors
 
