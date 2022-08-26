@@ -8,20 +8,6 @@ Simple return function to grab a random color from the Commodore 64 pallete
 
 ///////////////////////
 
-Generative Pattern Generator - Can be linked to a data source.
-======
-![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Gen_Lines_02/2021_cross003.png)
-
-///////////////////////
-
-Perlin_Lines
-======
-Line generation based on Perlin Noise. Algorithmically generated per incarnation.
-
-![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Perlin_Lines/example.PNG)
-
-///////////////////////
-
 SVG_Generative
 ======
 Generative Painting is a way of algorithmically creating compositions for my acrylic paintings. This branch specifically is designed to look at the paths of vectors pulled from a database of shapes. It then places this path randomly (within limits) on the canvas. This then repeats though all the paths of all the shapes. Colors are randomly generated (maximum of which can be defined).
@@ -55,6 +41,20 @@ SVG_VectorBend
 This sketch loads a .SVG file as an XML document (formatting it as a string of characters) then finds and replaces random numbers throughout. It is then saved again as a .SVG, this works similar to the "find and replace" way of glitching a vector file with notepad for example. However by doing it this way, the handles at the start of the document are not affected - no file coruption!
 
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/example.png)
+
+///////////////////////
+
+Generative Pattern Generator - Can be linked to a data source.
+======
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Gen_Lines_02/2021_cross003.png)
+
+///////////////////////
+
+Perlin_Lines
+======
+Line generation based on Perlin Noise. Algorithmically generated per incarnation.
+
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Perlin_Lines/example.PNG)
 
 ///////////////////////
 
