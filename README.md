@@ -1,10 +1,16 @@
-Gen_Lines_02
-======
 Commodore 64 Color Picker
 ======
 Simple return function to grab a random color from the Commodore 64 pallete 
 
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Commodore%2064/2022_Comm64_Colors.png)
+
+///////////////////////
+
+noiseMap_HEX
+======
+Generative flowfields based on a supplied Hashcode - basis for blockchain based applications. These are saved as a .SVG, allowing for plotting or further manipulation.
+
+![alt text](https://github.com/badalmer/Generative-Painting/blob/main/noiseMap_HEX/hex-example.png)
 
 ///////////////////////
 
