@@ -50,8 +50,10 @@ This sketch loads a .SVG file as an XML document (formatting it as a string of c
 
 ///////////////////////
 
-Generative Pattern Generator - Can be linked to a data source.
+Generative Pattern Generator
 ======
+Can be linked to a data source.
+
 ![alt text](https://github.com/badalmer/Generative-Painting/blob/main/Gen_Lines_02/2021_cross003.png)
 
 ///////////////////////
