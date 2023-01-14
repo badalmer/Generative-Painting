@@ -15,7 +15,9 @@ int Comm64Pick(){
     color(#880000), // red
     color(#FF7777), // light red
     color(#DD8855), // orange
-    color(#664400)}; // brown
+    color(#664400), // brown
+    color(#837EDE), // lark Purple
+    color(#4340AA)}; // light purple
   int pick = commodore[(int)random(commodore.length)];
   //subset(commodore, pick);
   return pick;
