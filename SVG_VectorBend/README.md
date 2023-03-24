@@ -38,8 +38,8 @@ Hypothetically, if given the correct information any image could be created. Thi
 
 [*numCopy*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L15) - the number of output files we ultimately want. Be careful with this number. 
 
-*corLevel* - the corruption level. The higher the number the more extreme the bend. I keep this below 10,000.
+[*corLevel*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L16) - the corruption level. The higher the number the more extreme the bend. I keep this below 10,000.
 
-*colorRefresh* - true or false, this allows the program to grab new colors for each file. Some colors might be picked more than once.
+[*colorRefresh*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L17) - true or false, this allows the program to grab new colors for each file. Some colors might be picked more than once.
 
-*colorNum* - how many colors we might want. Maximum is 16.
+[*colorNum*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L18) - how many colors we might want. Maximum is 16.
