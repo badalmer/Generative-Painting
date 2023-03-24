@@ -7,9 +7,9 @@ https://github.com/badalmer/Generative-Painting/blob/af9eb12cf02856c34961d5ffc77
 ***
 **Global**
 
-*code* - this will act as the output number used to calculate brightness of each pixel. 0 meaning black, 255 meaning white.
+[*code*](https://github.com/badalmer/Generative-Painting/blob/1161948cf8b4a27d7487b959a95081662a1d2804/Mariner4/Mariner%204.pde#L10) - this will act as the output number used to calculate brightness of each pixel. 0 meaning black, 255 meaning white.
 
-file - this program uses the drop library. A file can be any size, however since we’re going pixel by pixel here a very low dpi image should be used. An example being an image no larger than 82 pixels by 110 pixels. 
+[*file*](https://github.com/badalmer/Generative-Painting/blob/1161948cf8b4a27d7487b959a95081662a1d2804/Mariner4/Mariner%204.pde#L9) - this program uses the drop library. A file can be any size, however since we’re going pixel by pixel here a very low dpi image should be used. An example being an image no larger than 82 pixels by 110 pixels. 
 
 ***
 **Draw**
