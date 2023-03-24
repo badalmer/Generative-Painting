@@ -16,7 +16,7 @@ uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 
 .SVG files [vectors], opposed to .JPEG files [rasters], are based on XML and are human readable when opened in a text editor. Looking closely at the code that makes up an .SVG file we’re able to recognize recurring syntax. The **"Fill"** for instance refers to the colors used in the vector file. **“Path”** refers to the specific node handles that make up each vector shape. Vectors are simply shapes determined by points. Similar to a connect the dots puzzle. Each “node” represents a dot, with the string of numbers corresponding to where these nodes exist on the virtual canvas. Since vectors rely on geometry rather than pixels, they are infinitely scalable. There are no low quality images, simply shapes and paths. A vector could be scaled from the size of a piece of paper to the side of a building. 
 
-><style type="text/css">
+[//]: <style type="text/css">
 	.st0{fill:#7BA0CD;}
 	.st1{fill:#F2E6C8;}
 </style>
@@ -25,5 +25,5 @@ uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 		<path class="st0" d="M677.3,261.8c26.5,0,53,0,79.5,0c0,9.8,0,19.5,0,29.3c-4.7,0-9.4,0-14.1,0c0,0.9,0,1.5,0,2.5
 	c3.7-1.2,7.2,1.3,10.7-0.2c0.3-0.1,0.8,0.4,1.3,0.4c0.7,0.1,1.4,0.2,2.1,0.3c0,0.5,0,1,0,1.5c-2.2,0-4.4,0-6.6,0
 			c-0.3,0-0.6,0.5-0.9,0.7c-0.5,0-1,0-1.5,0c-0.3-0.3-0.5-0.5-0.8-0.8c-0.7,0-1.4-0.1-2.1,0c-0.3,0.1-0.6,0.5-0.9
-
-                        
+				     
+				     
