@@ -34,6 +34,8 @@ uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 				     
 Hypothetically, if given the correct information any image could be created. This might be humanly impossible, however since vectors are a lot more human readable this feels a little easier. By modifying existing node handles we can visualize change within the file. By automating this process, a dataset could be applied and the changes could be generative and more quickly recognized. For the purposes of this text I will be using the programming language Processing. Initiated in 2001 by Casey Reas and Benjamin Fry, Processing is an open-source programming language for artists. Please see the resources section for links on how to download this program for yourself. I will be assuming you’ve familiarized yourself with a bit of its concepts for this next part.
 
+https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L15-L18
+
 ***
 **Global Settings**
 
@@ -46,9 +48,11 @@ Hypothetically, if given the correct information any image could be created. Thi
 [*colorNum*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L18) - how many colors we might want. Maximum is 16.
 
 **Draw**
+
 This is where the magic happens. This program is essentially translating a vector file into a String, or series of characters. It skips the first 30 lines of the selected file in order to prevent corruption. Then, based on the value of [*corLevel*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L16), cycles through each character looking for a random number (between 10 and 150). Once found, it then replaces this number with another number (between 0 and 500). This section can be modified however I’ve found an aesthetic sweet spot here.
 
 **Recolor**
+
 Before outputting a file. The program will replace the original color data or the **fill** section of the file with a new color. These new colors are pulled from a list, taken from the 16 unique colors of the Commodore 64 system. A nostalgic source of computing for me.
 
 https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L84-L107
