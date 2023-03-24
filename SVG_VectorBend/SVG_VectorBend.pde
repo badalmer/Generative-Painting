@@ -81,6 +81,7 @@ public void dropEvent(DropEvent theDropEvent) {
   }
 }
 
+///////////////////////////////////////////////// COMMODORE 64 COLORS
 String Comm64Pick(){
   String[] commodore = {
     "fill:#FFFFFF;}", // white
@@ -98,7 +99,9 @@ String Comm64Pick(){
     "fill:#880000;}", // red
     "fill:#FF7777;}", // light red
     "fill:#DD8855;}", // orange
-    "fill:#664400;}"}; // brown
+    "fill:#664400;}", // brown
+    "fill:#8877DD;}", // dark Purple
+    "fill:#4340AA;}"}; // light purple
   String pick = commodore[(int)random(commodore.length)];
   return pick;
 }
