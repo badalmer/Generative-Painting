@@ -30,7 +30,7 @@ uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 ```
 >**example of a .svg file opened with notepad*				     
 				     
-Hypothetically, if given the correct information any image could be created. This might be humanly impossible, however since vectors are a lot more human readable this feels a little easier. By modifying existing node handles we can visualize change within the file. By automating this process, a dataset could be applied and the changes could be generative and more quickly recognized. For the purposes of this text I will be using the programming language Processing. Initiated in 2001 by Casey Reas and Benjamin Fry, Processing is an open-source programming language for artists. Please see the resources section for links on how to download this program for yourself. I will be assuming you’ve familiarized yourself with a bit of its concepts for this next part.
+Hypothetically, if given the correct information - any image could be created. This might be humanly impossible, however since vectors are a lot more human readable this feels a little easier. By modifying existing node handles we can visualize change within the file. By automating this process, a dataset could be applied and the changes could be generative and more quickly recognized. For the purposes of this text I will be using the programming language Processing. Initiated in 2001 by Casey Reas and Benjamin Fry, Processing is an open-source programming language for artists. Please see the resources section for links on how to download this program for yourself. I will be assuming you’ve familiarized yourself with a bit of its concepts for this next part.
 
 https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L15-L18
 
