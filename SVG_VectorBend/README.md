@@ -13,7 +13,7 @@ QÙ¬ks´ÛïúÍA}ã¨u&÷Åö<_×9|.?Ã^ÇüÔ\£ÛÞôÝ×ß|–ãþ°cùA
 Ã _ú~õâD¨põö%>>AV&˜/˜-—¨jÀBdEŽÅbŽt3Gìy8êöqÜéã¼w„Ü¼D‘ep¾ï¡F¼,à…>¢VŒ²ª°\.‘â8†ë¹ÈŠ›dƒåzÙbŽë4AÚëaíù¨9Î[üùí%®—k¬Ë
 uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 ```
-**example of a jpeg opened in a text editor*
+>**example of a jpeg opened in a text editor*
 
 .SVG files [vectors], opposed to .JPEG files [rasters], are based on XML and are human readable when opened in a text editor. Looking closely at the code that makes up an .SVG file we’re able to recognize recurring syntax. The **"Fill"** for instance refers to the colors used in the vector file. **“Path”** refers to the specific node handles that make up each vector shape. Vectors are simply shapes determined by points. Similar to a connect the dots puzzle. Each “node” represents a dot, with the string of numbers corresponding to where these nodes exist on the virtual canvas. Since vectors rely on geometry rather than pixels, they are infinitely scalable. There are no low quality images, simply shapes and paths. A vector could be scaled from the size of a piece of paper to the side of a building. 
 
@@ -28,7 +28,7 @@ uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 	c3.7-1.2,7.2,1.3,10.7-0.2c0.3-0.1,0.8,0.4,1.3,0.4c0.7,0.1,1.4,0.2,2.1,0.3c0,0.5,0,1,0,1.5c-2.2,0-4.4,0-6.6,0
 			c-0.3,0-0.6,0.5-0.9,0.7c-0.5,0-1,0-1.5,0c-0.3-0.3-0.5-0.5-0.8-0.8c-0.7,0-1.4-0.1-2.1,0c-0.3,0.1-0.6,0.5-0.9**
 ```
-**example of a .svg opened with notepad*				     
+>**example of a .svg opened with notepad*				     
 				     
 Hypothetically, if given the correct information any image could be created. This might be humanly impossible, however since vectors are a lot more human readable this feels a little easier. By modifying existing node handles we can visualize change within the file. By automating this process, a dataset could be applied and the changes could be generative and more quickly recognized. For the purposes of this text I will be using the programming language Processing. Initiated in 2001 by Casey Reas and Benjamin Fry, Processing is an open-source programming language for artists. Please see the resources section for links on how to download this program for yourself. I will be assuming you’ve familiarized yourself with a bit of its concepts for this next part.
 
