@@ -1,6 +1,6 @@
 # //Vector Bending
 
-[Furby Organ Example](SVG_VectorBend/images/lmnc - furbies.jpg)
+[Furby Organ Example](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/lmnc%20-%20furbies.jpg)
 
 [THE FURBY ORGAN, A MUSICAL INSTRUMENT MADE FROM FURBIES](https://www.youtube.com/watch?v=GYLBjScgb7o)
 
