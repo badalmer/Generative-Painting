@@ -1,5 +1,7 @@
 # //Vector Bending
 
+[![](SVG_VectorBend/images/lmnc - furbies.jpg)](https://www.youtube.com/watch?v=GYLBjScgb7o)
+
 [THE FURBY ORGAN, A MUSICAL INSTRUMENT MADE FROM FURBIES](https://www.youtube.com/watch?v=GYLBjScgb7o)
 
 Circuit bending is the act of interrupting electrical connections using various switches, potentiometers, or even just a few static resistors. By doing this, the user is able to modulate the electrical signals passing through the circuit. In practice, usually in audio applications this can result in strange drone-like sounds. In 2018 Youtuber Sam Battle or Look Mum No Computer took this to an extreme with the creation of “The Furby Organ''. Housed in a traditionally oak finished electric organ composed of 44 furbys each with the ability to be keyed to a different octave. With the flick of the “collective awakening switch”, the furbys all spring to life in unison. Their eyes start to blink, their furry groans of 90’s nostalgia begin to sync. A looping-freeze button sustains them into an endless tone - reminiscent of the jarring sound of a computer program freezing. The guts of the machine are a nest of wires and terminal strips connected to each Furby’s PCB board.
