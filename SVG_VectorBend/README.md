@@ -1,6 +1,6 @@
 # //Vector Bending
 
-[![](SVG_VectorBend/images/lmnc - furbies.jpg)](https://www.youtube.com/watch?v=GYLBjScgb7o)
+![Furby Organ Example](SVG_VectorBend/images/lmnc - furbies.jpg)
 
 [THE FURBY ORGAN, A MUSICAL INSTRUMENT MADE FROM FURBIES](https://www.youtube.com/watch?v=GYLBjScgb7o)
 
