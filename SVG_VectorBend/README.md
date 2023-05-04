@@ -15,7 +15,7 @@ uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 ```
 >**example of a .jpeg file opened in a text editor*
 
-[.SVG files [vectors], opposed to .JPEG files [rasters]](https://en.wikipedia.org/wiki/Vector_graphics), are based on XML and are human readable when opened in a text editor. Looking closely at the code that makes up an .SVG file we’re able to recognize recurring syntax. The **"Fill"** for instance refers to the colors used in the vector file. **“Path”** refers to the specific node handles that make up each vector shape. Vectors are simply shapes determined by points. Similar to a connect the dots puzzle. Each “node” represents a dot, with the string of numbers corresponding to where these nodes exist on the virtual canvas. Since vectors rely on geometry rather than pixels, they are infinitely scalable. There are no low quality images, simply shapes and paths. A vector could be scaled from the size of a piece of paper to the side of a building. 
+[.SVG files [vectors], opposed to .JPEG files [rasters]](https://en.wikipedia.org/wiki/Vector_graphics), are based on [XML](https://en.wikipedia.org/wiki/XML) and are human readable when opened in a text editor. Looking closely at the code that makes up an .SVG file we’re able to recognize recurring syntax. The **"Fill"** for instance refers to the colors used in the vector file. **“Path”** refers to the specific node handles that make up each vector shape. Vectors are simply shapes determined by points. Similar to a connect the dots puzzle. Each “node” represents a dot, with the string of numbers corresponding to where these nodes exist on the virtual canvas. Since vectors rely on geometry rather than pixels, they are infinitely scalable. There are no low quality images, simply shapes and paths. A vector could be scaled from the size of a piece of paper to the side of a building. 
 
 ```
 <style type="text/css">
@@ -30,7 +30,7 @@ uØAu‘—.œÊEà†p*yZ¡.~€ª*‘®×@Q
 ```
 >**example of a .svg file opened with notepad*				     
 				     
-Hypothetically, if given the correct information - any image could be created. This might be humanly impossible, however since vectors are a lot more human readable this feels a little easier. By modifying existing node handles we can visualize change within the file. By automating this process, a dataset could be applied and the changes could be generative and more quickly recognized. For the purposes of this text I will be using the programming language [Processing](https://processing.org/download/). Initiated in 2001 by Casey Reas and Benjamin Fry, Processing is an open-source programming language for artists. Tutorials can be found [here](https://processing.org/tutorials/). I will be assuming you’ve familiarized yourself with a bit of its concepts for this next part.
+Hypothetically, if given the correct information - any image could be created. This might be humanly impossible, however since vectors are a lot more human readable this feels a little easier. By modifying existing node handles we can visualize change within the file. By automating this process, a dataset could be applied and the changes could be generative and more quickly recognized. For the purposes of this text I will be using the programming language [Processing](https://processing.org/download/). Initiated in 2001 by Casey Reas and Benjamin Fry, Processing is an open-source programming language for artists. I will be assuming you’ve familiarized yourself with a bit of its concepts for this next part.
 
 ***
 ## The Code
@@ -51,7 +51,7 @@ https://github.com/badalmer/Generative-Painting/blob/e8becddbb723e6477d1beb5c5aa
 ***
 **Draw**
 
-This is where the magic happens. This program is essentially translating a vector file into a String, or series of characters. It skips the first 30 lines of the selected file in order to prevent corruption. Then, based on the value of [*corLevel*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L16), cycles through each character looking for a random number (between 10 and 150). Once found, it then replaces this number with another number (between 0 and 500). This section can be modified however, I’ve found an aesthetic sweet spot here.
+This is where the magic happens. This program is essentially translating a vector file into a [String](https://p5js.org/reference/#/p5/string), or series of characters. It will skip the first 30 lines of the selected file in order to prevent corruption. Then, based on the value of [*corLevel*](https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L16), it will cycle through each character looking for a random number (between 10 and 150). Once found, it then replaces this number with another number (between 0 and 500). This section can be modified; however, I’ve found an aesthetic sweet spot here.
 
 ***
 **Recolor**
