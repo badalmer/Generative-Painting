@@ -60,13 +60,13 @@ https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f
 The new file is then saved in the sketch folder of the program. Here are some examples:
 
 ![original image](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/cloud02.jpg)
-**Original Image**
+>**Original Image*
 
 ![example 01](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/BEND-12023_102.png)
-**Example Output 01**
+>**Example Output 01*
 
 ![example 02](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/BEND-12023_257.png)
-**Example Output 02**
+>**Example Output 02*
 
 ![example 03](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/BEND-12023_745.png)
-**Example Output 03**
+>**Example Output 03*
