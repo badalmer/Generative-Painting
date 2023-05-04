@@ -46,7 +46,7 @@ SVG_VectorBend
 ======
 This sketch loads a .SVG file as an XML document (formatting it as a string of characters) then finds and replaces random numbers throughout. It is then saved again as a .SVG, this works similar to the "find and replace" way of glitching a vector file with notepad for example. However by doing it this way, the handles at the start of the document are not affected - no file coruption!
 
-![alt text](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/example.png)
+![SVG_VectorBend](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/vectorBend-example.png)
 
 ///////////////////////
 
