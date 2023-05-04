@@ -58,6 +58,7 @@ Before outputting a file. The program will replace the original color data or th
 https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f31e4a35a75e15/SVG_VectorBend/SVG_VectorBend.pde#L84-L107
 
 We can simply drag and drop a .SVG image into the sketch and start getting some outputs. Let's start with this image.
+
 ![original image](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/cloud02.jpg)
 >**Original Image*
 
