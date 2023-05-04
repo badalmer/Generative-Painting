@@ -59,4 +59,4 @@ https://github.com/badalmer/Generative-Painting/blob/5bee838fa1bce13befae92b5a9f
 
 The new file is then saved in the sketch folder of the program. Here are some examples:
 
-[example 01](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/BEND-12023_102.png)
+![example 01](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/BEND-12023_102.png)
