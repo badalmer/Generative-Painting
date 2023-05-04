@@ -1,4 +1,4 @@
-# //Vector Bending
+# VECTOR BENDING
 
 [![Furby Organ Example](https://github.com/badalmer/Generative-Painting/blob/main/SVG_VectorBend/images/lmnc%20-%20furbies.jpg)](https://www.youtube.com/watch?v=GYLBjScgb7o)
 
